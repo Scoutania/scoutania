@@ -1,0 +1,8 @@
+body {
+    background: url(./scoutaniabg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    position: static;
+}
